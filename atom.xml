@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hun.ink</id>
     <title>混点墨水钱</title>
-    <updated>2019-10-24T04:18:52.797Z</updated>
+    <updated>2019-10-24T05:00:29.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hun.ink"/>
     <link rel="self" href="https://hun.ink/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hun.ink/images/avatar.png</logo>
     <icon>https://hun.ink/favicon.ico</icon>
     <rights>All rights reserved 2019, 混点墨水钱</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章用于查看评论系统是否启用]]></title>
+        <id>https://hun.ink/post/ce-shi-wen-zhang-yong-yu-cha-kan-ping-lun-xi-tong-shi-fou-qi-yong</id>
+        <link href="https://hun.ink/post/ce-shi-wen-zhang-yong-yu-cha-kan-ping-lun-xi-tong-shi-fou-qi-yong">
+        </link>
+        <updated>2019-10-24T05:00:01.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxmox 5.x_6.x 如何升级源和软件新版本]]></title>
         <id>https://hun.ink/post/proxmox</id>
