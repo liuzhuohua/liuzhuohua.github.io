@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hun.ink</id>
     <title>混点墨水钱</title>
-    <updated>2019-10-27T03:55:13.785Z</updated>
+    <updated>2019-11-20T12:06:48.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hun.ink"/>
     <link rel="self" href="https://hun.ink/atom.xml"/>
@@ -16,29 +16,32 @@
         <link href="https://hun.ink/post/proxmox">
         </link>
         <updated>2019-10-23T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>👏  分类 <strong>Proxmox</strong> ！</p>
+<p>✍️  <strong>Proxmox</strong> Proxmox VE是一款套开源的虚拟化管理软件，用户可通过网页的方式来管理服务器上使用 kvm 以及 lxc 技术运行的虚拟机。同时提供了一些先进功能的支持，如集群、HA等。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  分类 <strong>Proxmox</strong> ！</p>
+<p>✍️  <strong>Proxmox</strong> Proxmox VE是一款套开源的虚拟化管理软件，用户可通过网页的方式来管理服务器上使用 kvm 以及 lxc 技术运行的虚拟机。同时提供了一些先进功能的支持，如集群、HA等。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
+<p><a href="https://www.proxmox.com/en/">Proxmox 官网</a><br>
+<a href="https://www.proxmox.com/en/downloads">Proxmox 下载</a><br>
+<a href="https://pve.proxmox.com/wiki/Main_Page">Proxmox Wiki</a></p>
+<h2 id="需要用到的命令">需要用到的命令👇</h2>
+<p>📝  一：rm /etc/apt/sources.list.d/pve-enterprise.list</p>
+<p>📝  二：wget http://mirrors.ustc.edu.cn/proxmox/debian/proxmox-ve-release-5.x.gpg -O /etc/apt/trusted.gpg.d/proxmox-ve-release-5.x.gpg</p>
+<p>📝  三：wget http://mirrors.ustc.edu.cn/proxmox/debian/proxmox-ve-release-6.x.gpg -O /etc/apt/trusted.gpg.d/proxmox-ve-release-6.x.gpg</p>
+<p>📝  四：echo 'deb http://mirrors.ustc.edu.cn/proxmox/debian buster pve-no-subscription'&gt;/etc/apt/sources.list.d/pve-install-repo.list</p>
+<p>📝  五：sed -i 's/ftp.debian.org/mirrors.163.com/g' /etc/apt/sources.list</p>
+<p>📝  六：sed -i 's/security.debian.org/mirrors.163.com/debian-security/g' /etc/apt/sources.list<br>
+<img src="https://hun.ink/post-images/1574251256590.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251265808.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251271124.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251275618.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251280751.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251285650.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251295994.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251301266.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251308647.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574251314068.jpg" alt=""></p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
