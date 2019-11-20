@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hun.ink</id>
     <title>混点墨水钱</title>
-    <updated>2019-11-20T12:06:48.948Z</updated>
+    <updated>2019-11-20T15:23:16.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hun.ink"/>
     <link rel="self" href="https://hun.ink/atom.xml"/>
@@ -31,17 +31,20 @@
 <p>📝  三：wget http://mirrors.ustc.edu.cn/proxmox/debian/proxmox-ve-release-6.x.gpg -O /etc/apt/trusted.gpg.d/proxmox-ve-release-6.x.gpg</p>
 <p>📝  四：echo 'deb http://mirrors.ustc.edu.cn/proxmox/debian buster pve-no-subscription'&gt;/etc/apt/sources.list.d/pve-install-repo.list</p>
 <p>📝  五：sed -i 's/ftp.debian.org/mirrors.163.com/g' /etc/apt/sources.list</p>
-<p>📝  六：sed -i 's/security.debian.org/mirrors.163.com/debian-security/g' /etc/apt/sources.list<br>
-<img src="https://hun.ink/post-images/1574251256590.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251265808.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251271124.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251275618.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251280751.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251285650.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251295994.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251301266.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251308647.jpg" alt=""><br>
-<img src="https://hun.ink/post-images/1574251314068.jpg" alt=""></p>
+<p>📝  六：sed -i 's/security.debian.org/mirrors.163.com/debian-security/g' /etc/apt/sources.list</p>
+<p>📝  七：apt-get update</p>
+<p>📝  八：apt-get upgrade</p>
+<p>📝  九：apt-get dist-upgrade<br>
+<img src="https://hun.ink/post-images/1574263158747.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263163120.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263172364.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263177486.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263181604.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263187050.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263194194.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263198790.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263202917.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1574263207032.jpg" alt=""></p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
