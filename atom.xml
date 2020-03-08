@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hun.ink</id>
     <title>混点墨水钱</title>
-    <updated>2019-11-20T15:24:50.563Z</updated>
+    <updated>2020-03-08T08:33:37.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hun.ink"/>
     <link rel="self" href="https://hun.ink/atom.xml"/>
     <subtitle>我在等风   也在等你...</subtitle>
     <logo>https://hun.ink/images/avatar.png</logo>
     <icon>https://hun.ink/favicon.ico</icon>
-    <rights>All rights reserved 2019, 混点墨水钱</rights>
+    <rights>All rights reserved 2020, 混点墨水钱</rights>
+    <entry>
+        <title type="html"><![CDATA[一加6手机氢OS刷国外氧OS只需要两步-免ROOT-免数据线-免刷机]]></title>
+        <id>https://hun.ink/post/yi-jia-6-shou-ji-qing-os-shua-guo-wai-yang-os-zhi-xu-yao-liang-bu-mian-root-mian-shu-ju-xian-mian-shua-ji</id>
+        <link href="https://hun.ink/post/yi-jia-6-shou-ji-qing-os-shua-guo-wai-yang-os-zhi-xu-yao-liang-bu-mian-root-mian-shu-ju-xian-mian-shua-ji">
+        </link>
+        <updated>2020-03-08T08:17:10.000Z</updated>
+        <content type="html"><![CDATA[<p>第一步：将压缩包内的oneplus6_h2os_5.1.3_official_da0b72.zip，拷贝到手机根目录，这是一加官方的降级包，被泄露出来了，虽然官方已经尽可能的扼杀了所有网友提供的百度网盘的下载，但我备份了一份在电信的天翼云盘，赶紧下载吧。</p>
+<p>第二步：设置-系统更新-本地更新-选择oneplus6_h2os_5.1.3_official_da0b72.zip，等待更新完毕重启，重启后再将OnePlus6Oxygen_22_OTA_034_all_1909112343_dd26.zip，拷贝至根目录-设置-系统更新-本地更新-选择OnePlus6Oxygen_22_OTA_034_all_1909112343_dd26.zip，等待更新完毕重启，然后系统在线更新，自动识别到安卓10的海外氧版本，直接更新完毕就是安卓10氧OS了</p>
+<p>氢OS=国内版系统，不带原生Google谷歌套件，虽然有一些定制的APP，预装的国产软件也可以卸载。<br>
+氧OS=海外版系统，带原生Google谷歌全家套件，包括干净的输入法，跨版本更新也比国内版快。</p>
+<p><img src="https://hun.ink/post-images/1583655690523.jpg" alt=""><br>
+两个包合并成一个压缩包，下载地址：https://cloud.189.cn/t/NJzI7fyaA7Jb (访问码:3ao5)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxmox 5.x_6.x 如何升级源和软件新版本]]></title>
         <id>https://hun.ink/post/proxmox</id>
