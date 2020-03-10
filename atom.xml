@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hun.ink</id>
     <title>混点墨水钱</title>
-    <updated>2020-03-08T08:33:37.308Z</updated>
+    <updated>2020-03-10T08:31:45.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hun.ink"/>
     <link rel="self" href="https://hun.ink/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://hun.ink/images/avatar.png</logo>
     <icon>https://hun.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, 混点墨水钱</rights>
+    <entry>
+        <title type="html"><![CDATA[阿里云国际版-ECS-T5-新加坡，大概率开到161.xx.xx.xxIP段，可看NetFilx方法。]]></title>
+        <id>https://hun.ink/post/a-li-yun-guo-ji-ban-ecs-t5-xin-jia-po-da-gai-lu-kai-dao-161xxxxxxip-duan-ke-kan-netfilx-fang-fa</id>
+        <link href="https://hun.ink/post/a-li-yun-guo-ji-ban-ecs-t5-xin-jia-po-da-gai-lu-kai-dao-161xxxxxxip-duan-ke-kan-netfilx-fang-fa">
+        </link>
+        <updated>2020-03-10T08:24:18.000Z</updated>
+        <content type="html"><![CDATA[<p>2.5美元/月，到能买到GIA回程线路,的大厂近亚太KVM VPS，目前来看这个配置还是性价比很高的，除了CPU是突发类型被限制到约15%，其它都还可以，如果能换到161-IP段，更是可以观看NetFilx，今天就来教一下方法。</p>
+<p><img src="https://hun.ink/post-images/1583828913383.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1583828919111.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1583828924702.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1583828929773.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1583828934427.jpg" alt=""><br>
+<img src="https://hun.ink/post-images/1583828938782.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一加6手机氢OS刷国外氧OS只需要两步-免ROOT-免数据线-免刷机]]></title>
         <id>https://hun.ink/post/yi-jia-6-shou-ji-qing-os-shua-guo-wai-yang-os-zhi-xu-yao-liang-bu-mian-root-mian-shu-ju-xian-mian-shua-ji</id>
